@@ -42,7 +42,7 @@ const IndexDetailsView: React.FunctionComponent<IndexViewType> = ({ indexData })
                             </span>
                         </div>
                         <div className="index-pricing-stats-breadown__volume-wrapper flex flex-col items-start justify-start">
-                            <span className="text-base text-gray-500 font-medium">{"Market Cap"}</span>
+                            <span className="text-base text-gray-500 font-medium">{"Volume"}</span>
                             <span className="volume-content-wrapper text-2xl font-semibold">
                                 {indexData?.stats?.volume}
                             </span>
