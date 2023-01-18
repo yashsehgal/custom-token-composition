@@ -1,0 +1,67 @@
+[
+    {
+      "indexName": "Defi Pulse Index (DPI)",
+      "indexDescription": "The DeFi Pulse Index (DPI) is a capitalization-weighted index that tracks the performance of decentralized financial assets across the market.",
+      "indexLogo": "data:image/png;base64,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",
+      "indexPricing": {
+        "currentPrice": {
+          "currency": "$",
+          "amount": "81.52"
+        },
+        "changePercentage": "1.25",
+        "isChangeRateGrowing": true
+      },
+      "stats": {
+        "marketCap": {
+          "currency": "$",
+          "amount": "24.38M"
+        },
+        "volume": "0.24M",
+        "currentSupply": "299,077",
+        "streamingFee": "0.95"
+      },
+      "underlyingTokens": [
+        {
+          "tokenName": "Uniswap",
+          "tokenLogo": "https://assets.website-files.com/60d237b6ea65be721ff4bbfa/60f02d4277cf17d83ce2e383_uni%201.svg"
+        },
+        {
+          "tokenName": "Aave",
+          "tokenLogo": "https://cryptologos.cc/logos/aave-aave-logo.png"
+        },
+        {
+          "tokenName": "Maker",
+          "tokenLogo": "https://cryptologos.cc/logos/maker-mkr-logo.png"
+        },
+        {
+          "tokenName": "Synthetix",
+          "tokenLogo": "https://assets.website-files.com/60d237b6ea65be721ff4bbfa/60f02d4025bf1acba2c95cbe_synthetix-network-token-snx-logo%201.svg"
+        },
+        {
+          "tokenName": "Loopring",
+          "tokenLogo": "https://cryptologos.cc/logos/loopring-lrc-logo.png"
+        },
+        {
+          "tokenName": "Compound",
+          "tokenLogo": "https://s2.coinmarketcap.com/static/img/coins/200x200/5692.png"
+        },
+        {
+          "tokenName": "Balancer",
+          "tokenLogo": "https://s2.coinmarketcap.com/static/img/coins/200x200/5728.png"
+        },
+        {
+          "tokenName": "Sushi",
+          "tokenLogo": "https://assets.website-files.com/60d237b6ea65be721ff4bbfa/60f02d3e639cd053b7b74d41_sushiswap-sushi-logo%201.svg"
+        },
+        {
+          "tokenName": "Yearn",
+          "tokenLogo": "https://cryptologos.cc/logos/yearn-finance-yfi-logo.png"
+        },
+        {
+          "tokenName": "REN",
+          "tokenLogo": "https://cryptologos.cc/logos/ren-ren-logo.png"
+        }
+      ]
+    }
+  ]
+  
